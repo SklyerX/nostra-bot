@@ -1,0 +1,47 @@
+{
+    "bot": {
+        "token": "",
+        "clientId": "",
+        "guildId": "",
+        "ownerId":"",
+        "database": "",
+        "youtubeAPIKey": "",
+        "slash": "dev"
+    },
+    "webhook": {
+        "webhookId": "",
+        "webhookToken": "",
+        "loggerId": "",
+        "loggerToken": "",
+        "alertId": "",
+        "alertToken": "",
+        "backupId": "",
+        "backupToken": "",
+        "publicId": "",
+        "publicToken": ""
+    },
+    "external": {
+        "inv": "",
+        "website": "",
+        "discord": ""
+    },
+    "channels": {
+        "error": "",
+        "joined": "",
+        "left": "",
+        "bugReport": ""
+    },
+    "GIFS": [
+        "",
+        ""
+    ],
+    "clientModes": {
+        "updating": {
+            "value": "false",
+            "status": "Updating to version 2"
+        },
+        "changingStatus": {
+            "value": "off"
+        }
+    }
+}

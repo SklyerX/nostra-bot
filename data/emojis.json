@@ -1,0 +1,46 @@
+{
+    "security": {
+        "settings": "<a:settings:939813729254658088>",
+        "admin": "<:admin:939801632537972796>",
+        "no": "<:no:939814471847780402>",
+        "yes": "<:yes:939814436519157780>",
+        "category": "<a:IconAddCategory:951665482635821116>",
+        "channelAdd": "<a:IconAddChannel:951665482400931930>",
+        "analytics": "<a:IconAnalytics:951665482560319518>",
+        "off": "<a:IconChoice:951665482858131467>",
+        "on": "<a:IconChoiceCheck:951665482942021693>",
+        "premiumSheild": "<a:IconConfidenciality:951665483105570906>",
+        "secureNet": "<a:IconSecureNetworking:951665832080076901>",
+        "secureServer": "<a:IconServerSecurity:951665815948775526>"
+    },
+    "regular": {
+        "no": "<:no:939800610088312863>",
+        "yes": "<a:yes:939813605254238208>",
+        "ping": "<:ping:939881032260411392>",
+        "invite": "<:invite:939814575291904021>",
+        "loading": "<a:loading:939814102799376424>",
+        "delete": "<a:delete:939800365078048788>",
+        "boost": "<a:boost:939814826509750284>",
+        "dev": "<a:dev:939812272203763773>",
+        "joined": "<:join:939816260571635722>",
+        "left": "<:leave:939816138051837984>",
+        "giveaway": "<a:Giveaway:939811539177852959>",
+        "purchase": "<a:IconCreditCard:951665483118162001>",
+        "refresh": "<a:IconCrossPlatform:951665483101405216>"
+    },
+    "moderation": {
+        "banned": "<a:ban:939801315436023868>",
+        "unbanned": "<a:IconModUnban:951667283460243546>",
+        "modSettings": "<:793814295057924126:939801510420811786>",
+        "muted": "<:muted:939815134648479765>",
+        "deafen": "<:deafen:939815134682054696>"
+    },
+    "economy": {
+        "cash": "<:2542:939812353132867594>",
+        "coins": "<:bcoin:939800650169090088>",
+        "decrease": "<a:IconAnalyticsDecrease:951665482564505640>",
+        "increase": "<a:IconAnalyticsGrowth:951665482484826152>",
+        "bank": "<:credit:939811843835326464>",
+        "purchase": "<a:IconCreditCard:951665483118162001>"
+    }
+}
